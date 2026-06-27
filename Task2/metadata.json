@@ -1,0 +1,23 @@
+[
+     {
+          "backup_id": "Backup_2026-06-26_01-00-12",
+          "backup_date": "2026-06-26_01-00-12",
+          "Source": "H:\\TEYZIXCORE\\Task2\\SourceFiles",
+          "destination": "H:\\TEYZIXCORE\\Task2\\Backups\\Backup_2026-06-26_01-00-12",
+          "status": "Success"
+     },
+     {
+          "backup_id": "Backup_2026-06-26_01-06-38",
+          "backup_date": "2026-06-26_01-06-38",
+          "Source": "H:\\TEYZIXCORE\\Task2\\SourceFiles",
+          "destination": "H:\\TEYZIXCORE\\Task2\\Backups\\Backup_2026-06-26_01-06-38",
+          "status": "Success"
+     },
+     {
+          "backup_id": "Backups2026-06-26_01-10-34",
+          "backup_date": "2026-06-26_01-10-34",
+          "Source": "H:\\TEYZIXCORE\\Task2\\SourceFiles",
+          "destination": "H:\\TEYZIXCORE\\Task2\\Backups\\Backups2026-06-26_01-10-34",
+          "status": "Success"
+     }
+]
